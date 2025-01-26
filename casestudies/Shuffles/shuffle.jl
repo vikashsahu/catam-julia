@@ -146,7 +146,7 @@ Compared to the riffle shuffle, it seems like the overhand shuffle doesn't rando
 
 # ╔═╡ 626314cb-a77b-4a6a-ac08-132276887030
 md"""
-## Meassuring Randomness
+## Measuring Randomness
 """
 
 # ╔═╡ c571311e-5946-4f06-8e9d-d5f8d8ed3430
